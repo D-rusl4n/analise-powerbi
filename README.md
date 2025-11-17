@@ -31,4 +31,3 @@ Bem-vindo ao meu portfólio de dados. Abaixo estão os projetos desenvolvidos co
 ### 🛠 Ferramentas Utilizadas
 * **Microsoft Power BI** (DAX, Power Query, Visualização)
 * **Excel Avançado** (Tratamento de dados)
-* **SQL** (Modelagem de banco de dados)
